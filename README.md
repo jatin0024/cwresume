@@ -12,13 +12,13 @@ The **ATS Resume Scanner** is a web-based application designed to help job seeke
 Below are some screenshots showing the functionality of the ATS Resume Scanner web application.
 
 ### Home Page
-![Home Page](client\src\assets\homepage.png)
+![Home Page](src\assets\homepage.png)
 
 ### Resume Upload Page
-![Resume Upload Page](client\src\assets\resumeupload.png)
+![Resume Upload Page](src\assets\resumeupload.png)
 
 ### Result Page
-![Result Page](client\src\assets\result.png)
+![Result Page](src\assets\result.png)
 
 ## Installation
 
