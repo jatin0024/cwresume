@@ -8,18 +8,6 @@ The **ATS Resume Scanner** is a web-based application designed to help job seeke
 - **Formatting Analysis**: Check if your resume formatting meets industry standards.
 - **Score & Feedback**: Receive a score on how well your resume performs and suggestions for improvements.
 
-## Screenshots
-Below are some screenshots showing the functionality of the ATS Resume Scanner web application.
-
-### Home Page
-![Home Page](src/assets/homepage.png)
-
-### Resume Upload Page
-![Resume Upload Page](src/assets/resumeupload.png)
-
-### Result Page
-![Result Page](src/assets/result.png)
-
 ## Installation
 
 To run the ATS Resume Scanner locally on your machine, follow these steps:
@@ -60,20 +48,6 @@ Make sure you have the following installed:
 - **Backend**: Node.js, Express.js 
 - **Libraries**: [pdf-lib](https://github.com/Hopding/pdf-lib), [react-file-upload](https://www.npmjs.com/package/react-file-upload)
 - **ATS Algorithms**: Custom keyword matching and scoring algorithm based on industry standards.
-
-## Contributing
-
-We welcome contributions! If you have suggestions or improvements, feel free to fork the repository, create a branch, and submit a pull request.
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-name`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - Inspiration: Various online resources and ATS-related articles.
